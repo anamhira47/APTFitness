@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">APT Fitness Tracker</string>
+    <string name="tomorrow">Tomorrow</string>
+    <string name="today">Today</string>
+    <string name="yesterday">Yesterday</string>
+
+    <string name="empty_comment_placeholder">Write a comment…</string>
+    <string name="update_button_text">Update</string>
+    <string name="add_set_button_text">Add Set</string>
+    <string name="tracker_page_title_1">TRACK</string>
+    <string name="tracker_page_title_2">HISTORY</string>
+    <string name="reps_text">reps</string>
+    <string name="lbs_text">lbs</string>
+    <string name="weight_chooser_title">Weight (lbs)</string>
+    <string name="repetition_chooser_title">Repetitions</string>
+    <string name="one_more_set_text">1 more set</string>
+    <string name="multiple_more_sets_text">%1$d more sets</string>
+    <string name="all_exercises_title">All Exercises</string>
+    <string name="category">Category</string>
+    <string name="exercise_name">Exercise Name</string>
+    <string name="save">Save</string>
+    <string name="new_exercise">New Exercise</string>
+    <string name="create_new">Create New</string>
+
+</resources>
